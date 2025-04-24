@@ -1,0 +1,64 @@
+{
+  "title": "MAPA DA CLASSE - Avaliação Diagnóstica Unificada",
+  "description": "Planilha única para preenchimento por professores, com uma linha por aluno e menus suspensos para padronização dos dados.",
+  "columns": [
+    {
+      "Escola": "Texto"
+    },
+    {
+      "Ano": "Número"
+    },
+    {
+      "Professora": "Texto"
+    },
+    {
+      "Etapa": [
+        "Maternal",
+        "1ª Etapa",
+        "2ª Etapa"
+      ]
+    },
+    {
+      "Nome do aluno": "Texto"
+    },
+    {
+      "Idade": "Número"
+    },
+    {
+      "Alfabeto": [
+        "MENOS DE 10 LETRAS",
+        "MAIS DE 10 LETRAS",
+        "TODAS AS LETRAS"
+      ]
+    },
+    {
+      "Reconhece figuras geométricas": [
+        "NENHUM",
+        "PARCIAL",
+        "TODOS"
+      ]
+    },
+    {
+      "Reconhece números 0-9": [
+        "NENHUM",
+        "PARCIAL",
+        "TODOS"
+      ]
+    },
+    {
+      "Quantifica 0-9": [
+        "NENHUM",
+        "PARCIAL",
+        "TODOS"
+      ]
+    },
+    {
+      "Reconhece cores": [
+        "N/A",
+        "PARCIAL",
+        "NENHUM",
+        "TODAS"
+      ]
+    }
+  ]
+}
