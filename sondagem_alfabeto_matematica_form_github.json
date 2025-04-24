@@ -1,0 +1,79 @@
+{
+  "title": "MAPA DA CLASSE - Sondagem Alfabeto e Matemática",
+  "description": "Preencha com os dados de cada aluno da sua turma conforme as instruções da coordenação.",
+  "items": [
+    {
+      "title": "Nome do(a) Professor(a)",
+      "type": "TEXT"
+    },
+    {
+      "title": "Escola",
+      "type": "TEXT"
+    },
+    {
+      "title": "Etapa",
+      "type": "TEXT"
+    },
+    {
+      "title": "Ano",
+      "type": "TEXT"
+    },
+    {
+      "title": "Data da avaliação",
+      "type": "DATE"
+    },
+    {
+      "title": "Nome do aluno(a)",
+      "type": "TEXT"
+    },
+    {
+      "title": "Idade do aluno(a)",
+      "type": "TEXT"
+    },
+    {
+      "title": "Quantas letras o aluno reconhece?",
+      "type": "MULTIPLE_CHOICE",
+      "choices": [
+        "Menos de 10 letras",
+        "Mais de 10 letras",
+        "Todas as letras"
+      ]
+    },
+    {
+      "title": "Reconhece e nomeia as figuras geométricas",
+      "type": "MULTIPLE_CHOICE",
+      "choices": [
+        "Nenhum",
+        "Parcial",
+        "Todos"
+      ]
+    },
+    {
+      "title": "Reconhece e nomeia os números de 0 a 9",
+      "type": "MULTIPLE_CHOICE",
+      "choices": [
+        "Nenhum",
+        "Parcial",
+        "Todos"
+      ]
+    },
+    {
+      "title": "Quantifica os numerais de 0 a 9",
+      "type": "MULTIPLE_CHOICE",
+      "choices": [
+        "Nenhum",
+        "Parcial",
+        "Todos"
+      ]
+    },
+    {
+      "title": "Reconhece as cores",
+      "type": "MULTIPLE_CHOICE",
+      "choices": [
+        "Nenhum",
+        "Parcial",
+        "Todos"
+      ]
+    }
+  ]
+}
